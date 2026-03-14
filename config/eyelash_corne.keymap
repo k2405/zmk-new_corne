@@ -136,6 +136,7 @@
             sensor-bindings = <&scroll_encoder>;
         };
 empty_layer1 {
+display-name = "EMPTY 1";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -144,6 +145,7 @@ empty_layer1 {
     >;
 };
 empty_layer2 {
+display-name = "EMPTY 2";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -152,6 +154,7 @@ empty_layer2 {
     >;
 };
 empty_layer3 {
+display-name = "EMPTY 3";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -160,6 +163,7 @@ empty_layer3 {
     >;
 };
 empty_layer4 {
+display-name = "EMPTY 4";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -168,6 +172,7 @@ empty_layer4 {
     >;
 };
 empty_layer5 {
+display-name = "EMPTY 5";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -176,6 +181,7 @@ empty_layer5 {
     >;
 };
 empty_layer6 {
+display-name = "EMPTY 6";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -184,6 +190,7 @@ empty_layer6 {
     >;
 };
 empty_layer7 {
+display-name = "EMPTY 7";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -192,6 +199,7 @@ empty_layer7 {
     >;
 };
 empty_layer8 {
+display-name = "EMPTY 8";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -200,6 +208,7 @@ empty_layer8 {
     >;
 };
 empty_layer9 {
+display-name = "EMPTY 9";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -208,6 +217,7 @@ empty_layer9 {
     >;
 };
 empty_layer10 {
+display-name = "EMPTY 10";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -216,6 +226,7 @@ empty_layer10 {
     >;
 };
 empty_layer11 {
+display-name = "EMPTY 11";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -224,6 +235,7 @@ empty_layer11 {
     >;
 };
 empty_layer12 {
+display-name = "EMPTY 12";
     bindings = 
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans

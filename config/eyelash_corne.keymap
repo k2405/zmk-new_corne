@@ -137,7 +137,7 @@
         };
 empty_layer1 {
 display-name = "EMPTY 1";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -146,7 +146,7 @@ display-name = "EMPTY 1";
 };
 empty_layer2 {
 display-name = "EMPTY 2";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -155,7 +155,7 @@ display-name = "EMPTY 2";
 };
 empty_layer3 {
 display-name = "EMPTY 3";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -164,7 +164,7 @@ display-name = "EMPTY 3";
 };
 empty_layer4 {
 display-name = "EMPTY 4";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -173,7 +173,7 @@ display-name = "EMPTY 4";
 };
 empty_layer5 {
 display-name = "EMPTY 5";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -182,7 +182,7 @@ display-name = "EMPTY 5";
 };
 empty_layer6 {
 display-name = "EMPTY 6";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -191,7 +191,7 @@ display-name = "EMPTY 6";
 };
 empty_layer7 {
 display-name = "EMPTY 7";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -200,7 +200,7 @@ display-name = "EMPTY 7";
 };
 empty_layer8 {
 display-name = "EMPTY 8";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -209,7 +209,7 @@ display-name = "EMPTY 8";
 };
 empty_layer9 {
 display-name = "EMPTY 9";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -218,7 +218,7 @@ display-name = "EMPTY 9";
 };
 empty_layer10 {
 display-name = "EMPTY 10";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -227,7 +227,7 @@ display-name = "EMPTY 10";
 };
 empty_layer11 {
 display-name = "EMPTY 11";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
@@ -236,7 +236,7 @@ display-name = "EMPTY 11";
 };
 empty_layer12 {
 display-name = "EMPTY 12";
-    bindings = 
+    bindings = <
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
         &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans

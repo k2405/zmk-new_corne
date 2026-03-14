@@ -135,5 +135,101 @@
 
             sensor-bindings = <&scroll_encoder>;
         };
+empty_layer1 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer2 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer3 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer4 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer5 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer6 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer7 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer8 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer9 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer10 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer11 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
+empty_layer12 {
+    bindings = 
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+        &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                              &trans &trans &trans &trans &trans &trans
+    >;
+};
     };
 };
